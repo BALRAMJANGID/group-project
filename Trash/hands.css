@@ -1,0 +1,10 @@
+*{
+	padding:0; margin: 0;
+}
+
+.bacaaaakground{
+	height: 900px;
+	background-repeat: no-repeat;
+    background-image: url(image/hand.jpg);
+
+}
